@@ -608,6 +608,8 @@ input,label{
     border-radius: 5px;
     margin: 5px;
     font-size: 14px;
+    padding: 5px;
+    font-size: 16px;
 }
 
 input[type=text]::placeholder
@@ -627,5 +629,6 @@ input[type=submit]{
 .input{
     background-color:#42210B ;
     color: #fff;
+    
 }
 
